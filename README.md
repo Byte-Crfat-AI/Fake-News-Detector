@@ -1,5 +1,7 @@
 Fake News Detector
-Introduction
+
+# Introduction
+
 This project aims to build a model to detect fake news using machine learning techniques. The dataset consists of two categories: real news and fake news. The project involves data preprocessing, model building using Support Vector Machine (SVM), and evaluation of the model's performance.
 
 Project Overview
